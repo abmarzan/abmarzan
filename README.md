@@ -25,7 +25,7 @@
     <a href="https://www.linkedin.com/in/marzan25/" target="_blank">
     <img lign="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
     </a>
-    <a href="http://aamarzan.com" target="_blank">
+    <a href="https://marzan.org" target="_blank">
     <img lign="left" src="https://cdn-icons-png.flaticon.com/512/741/741474.png" width="40" height="40" alt="Website"/>
     </a>
     <a href="mailto:marzansust16@gmail.com" target="_blank">
@@ -64,25 +64,25 @@
 <summary align="center"><h2><img alt="GIF" src="./images/laptop.gif" width="25px"> Featured Projects </h2></summary>
   <div align="center">
       <br>
-      <a href="https://github.com/aamarzan/miRNA-RNA-Deep-Learning-Model" target="_blank"><img src="https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge"></a>
-      <a href="https://github.com/aamarzan/Code-for-heatmap" target="_blank"><img src="https://img.shields.io/badge/-Code--for--heatmap-orange?logo=r&logoColor=white&style=for-the-badge"></a>
-      <a href="https://github.com/aamarzan/Base-R-GGPLOT" target="_blank"><img src="https://img.shields.io/badge/-Base--R--GGPLOT-333399?logo=r&logoColor=white&style=for-the-badge"></a>
-      <a href="https://github.com/aamarzan/Mutation-analysis" target="_blank"><img src="https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/abmarzan/miRNA-RNA-Deep-Learning-Model" target="_blank"><img src="https://img.shields.io/badge/-miRNA--RNA--Deep--Learning--Model-blueviolet?logo=github&style=for-the-badge"></a>
+      <a href="https://github.com/abmarzan/Code-for-heatmap" target="_blank"><img src="https://img.shields.io/badge/-Code--for--heatmap-orange?logo=r&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/abmarzan/Base-R-GGPLOT" target="_blank"><img src="https://img.shields.io/badge/-Base--R--GGPLOT-333399?logo=r&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/abmarzan/Mutation-analysis" target="_blank"><img src="https://img.shields.io/badge/-Mutation--analysis-009688?logo=python&logoColor=white&style=for-the-badge"></a>
       <br><br>
   </div>
 </details>
 
-<summary align="center"><img src="https://komarev.com/ghpvc/?username=aamarzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/></summary>
+<summary align="center"><img src="https://komarev.com/ghpvc/?=abmarzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/></summary>
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./images//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
     <br>
     
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamarzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?=abmarzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     <br><br>
   </div>
   <div align="center">
-    <a href="https://github.com/aamarzan"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=aamarzan&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+    <a href="https://github.com/abmarzan"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?=abmarzan&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 <br>
 </details>
