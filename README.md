@@ -53,7 +53,7 @@
 <summary align="center"><h2><img alt="GIF" src="./images/laptop_code.gif" width="25px"> Other Tools </h2></summary>
 <div align="center">
     <p></p>
-    <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a>
+    <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
     <a href="https://seaborn.pydata.org/" target="_blank"> <img alt="seaborn" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" /></a>
     <a href="https://ggplot2.tidyverse.org/" target="_blank"> <img alt="ggplot2" height ="42px"  src="https://raw.githubusercontent.com/tidyverse/ggplot2/main/pkgdown/favicon/apple-touch-icon-120x120.png" /></a>
     <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
@@ -72,17 +72,17 @@
   </div>
 </details>
 
-<summary align="center"><img src="https://komarev.com/ghpvc/?=abmarzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/></summary>
+<summary align="center"><img src="https://komarev.com/ghpvc/?username=abmarzan&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/></summary>
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./images//statistics.gif" width="25px"> Profile Statistics </h2></summary>
   <div align="center">
     <br>
     
-   <img src="https://github-readme-streak-stats.herokuapp.com/?=abmarzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abmarzan&theme=transparent&fire=D8D8D8&ring=D8D8D8&currStreakNum=D8D8D8&sideNums=D8D8D8&currStreakLabel=84C2C0&sideLabels=D8D8D8&dates=D8D8D8&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     <br><br>
   </div>
   <div align="center">
-    <a href="https://github.com/abmarzan"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?=abmarzan&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+    <a href="https://github.com/abmarzan"><img alt="Marzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=abmarzan&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
 <br>
 </details>
